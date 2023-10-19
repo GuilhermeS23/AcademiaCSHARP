@@ -1,0 +1,14 @@
+C:\Users\Guilherme\source\repos\ConsoleApp1\bin\Debug\net6.0\ExercicioRepetição2.exe
+C:\Users\Guilherme\source\repos\ConsoleApp1\bin\Debug\net6.0\ExercicioRepetição2.deps.json
+C:\Users\Guilherme\source\repos\ConsoleApp1\bin\Debug\net6.0\ExercicioRepetição2.runtimeconfig.json
+C:\Users\Guilherme\source\repos\ConsoleApp1\bin\Debug\net6.0\ExercicioRepetição2.dll
+C:\Users\Guilherme\source\repos\ConsoleApp1\bin\Debug\net6.0\ExercicioRepetição2.pdb
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\ExercicioRepetição2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\ExercicioRepetição2.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\ExercicioRepetição2.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\ExercicioRepetição2.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\ExercicioRepetição2.dll
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\refint\ExercicioRepetição2.dll
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\ExercicioRepetição2.pdb
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\ExercicioRepetição2.genruntimeconfig.cache
+C:\Users\Guilherme\source\repos\ConsoleApp1\obj\Debug\net6.0\ref\ExercicioRepetição2.dll
