@@ -1,0 +1,14 @@
+C:\Users\Guilherme\source\repos\Matriz\bin\Debug\net6.0\Matriz.exe
+C:\Users\Guilherme\source\repos\Matriz\bin\Debug\net6.0\Matriz.deps.json
+C:\Users\Guilherme\source\repos\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+C:\Users\Guilherme\source\repos\Matriz\bin\Debug\net6.0\Matriz.dll
+C:\Users\Guilherme\source\repos\Matriz\bin\Debug\net6.0\Matriz.pdb
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\Matriz.dll
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\Matriz.pdb
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+C:\Users\Guilherme\source\repos\Matriz\obj\Debug\net6.0\ref\Matriz.dll
