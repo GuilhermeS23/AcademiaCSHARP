@@ -1,0 +1,51 @@
+/* Estilos gerais */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+.content {
+    padding: 20px;
+}
+
+/* Estilos de navegação */
+header {
+    background-color: #2745ce;
+    color: #fff8f8;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration:none ;
+}
+
+/* Estilos da tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Estilos do rodapé */
+footer {
+    background-color: #2745ce;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
