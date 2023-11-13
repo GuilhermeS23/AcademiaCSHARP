@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trocar Cores</title>
+    <style>
+        #conteudo {
+            font-size: 18px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="conteudo" style="color: black; background-color: white;">
+        <p>VASCO DA GAMA.</p>
+    </div>
+
+    <div>
+        <button onclick="trocarCorFonte()">Trocar Cor da Fonte</button>
+        <button onclick="trocarCorFundo()">Trocar Cor do Fundo</button>
+    </div>
+
+    <script>
+        var conteudo = document.getElementById("conteudo");
+
+        function trocarCorFonte() {
+            var corAtual = window.getComputedStyle(conteudo).color;
+            conteudo.style.color = corAtual === 'rgb(0, 0, 0)' ? 'white' : 'black';
+        }
+
+        function trocarCorFundo() {
+            var corAtual = window.getComputedStyle(conteudo).backgroundColor;
+            conteudo.style.backgroundColor = corAtual === 'rgb(255, 255, 255)' ? 'black' : 'white';
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle de Texto</title>
+    <style>
+        #conteudo {
+            font-size: 18px;
+            padding: 10px;
+            color: black;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="conteudo">
+        <p>VASCO DA GAMA.</p>
+    </div>
+
+    <div>
+        <button onclick="trocarCorFonte()">Trocar Cor da Fonte</button>
+        <button onclick="trocarCorFundo()">Trocar Cor do Fundo</button>
+        <button onclick="aumentarFonte()">+</button>
+        <button onclick="diminuirFonte()">-</button>
+        <button onclick="transformarMaiuscula()">MAIÚSCULA</button>
+        <button onclick="transformarMinuscula()">minúscula</button>
+    </div>
+
+    <script>
+        var conteudo = document.getElementById("conteudo");
+
+        function trocarCorFonte() {
+            var corAtual = window.getComputedStyle(conteudo).color;
+            conteudo.style.color = corAtual === 'rgb(0, 0, 0)' ? 'white' : 'black';
+        }
+
+        function trocarCorFundo() {
+            var corAtual = window.getComputedStyle(conteudo).backgroundColor;
+            conteudo.style.backgroundColor = corAtual === 'rgb(255, 255, 255)' ? 'black' : 'white';
+        }
+
+        function aumentarFonte() {
+            var tamanhoAtual = window.getComputedStyle(conteudo).fontSize;
+            conteudo.style.fontSize = (parseFloat(tamanhoAtual) * 1.2) + 'px';
+        }
+
+        function diminuirFonte() {
+            var tamanhoAtual = window.getComputedStyle(conteudo).fontSize;
+            conteudo.style.fontSize = (parseFloat(tamanhoAtual) / 1.2) + 'px';
+        }
+
+        function transformarMaiuscula() {
+            conteudo.innerHTML = conteudo.innerHTML.toUpperCase();
+        }
+
+        function transformarMinuscula() {
+            conteudo.innerHTML = conteudo.innerHTML.toLowerCase();
+        }
+    </script>
+
+</body>
+</html>
